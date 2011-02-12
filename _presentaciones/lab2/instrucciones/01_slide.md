@@ -1,9 +1,12 @@
 !SLIDE 
-# My Presentation #
 
-!SLIDE bullets incremental
-# Bullet Points #
+#Laboratorio individual 1
 
-* first point
-* second point
-* third point
+!SLIDE bullets small
+
+#Instrucciones
+
+* Este es un laboratorio de entrega _individual_
+* Deberá responder a las preguntas/ejercicios 
+  en un archivo de texto, de preferencia editado en `vi`
+* Deberá entregarlo al correo del docente
